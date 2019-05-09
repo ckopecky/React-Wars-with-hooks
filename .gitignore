@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+starwars2/yarn.lock
+starwars2/public/favicon.ico
+starwars2/src/logo.svg
